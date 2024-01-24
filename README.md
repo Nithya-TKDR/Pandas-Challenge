@@ -13,7 +13,7 @@
        2. School Size <br>
        3. School Type <br>
 ***
-**Input Files**: There are two CSV files, one each containing the data on students and schools within this school district that are provided as inputs for the analysis. 
+**Input Files**: There are two CSV files, one each containing the data on students and schools within this school district that are provided as inputs for the analysis. These are within the *Resources* folder and are named as *students_complete.csv* and *schools_complete.csv* respectively. 
 ***
 **References**:
 > - *"Style Your Pandas DataFrame and Make it Stunning"*, Kaustubh Gupta, https://www.analyticsvidhya.com/blog/2021/06/style-your-pandas-dataframe-and-make-it-stunning/, accessed Jan 2024<br>
